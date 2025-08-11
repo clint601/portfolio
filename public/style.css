@@ -1,0 +1,42 @@
+
+
+
+*{box-sizing: border-box;}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#616161;
+    font-family: "Trade Winds", system-ui;
+    
+}
+
+
+.nav-link{
+    font-size: 1.5rem;
+    color: black;
+}
+
+.nav-link:visited
+{
+    color: black;
+}
+
+.nav-link:hover{
+    color: red;
+}
+
+.about-text {
+    color: black;
+}
+
+.socials-link {
+    color: black;
+    font-size: 20px;
+}
+
+.socials-link:hover {
+    color: red;
+}
