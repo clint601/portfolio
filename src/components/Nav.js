@@ -12,7 +12,7 @@ const Nav =()=> {
             <Link className="nav-link mt-5" 
             to="/about">About</Link>
             <Link className="nav-link mt-5" 
-            to="/projects">Projects</Link>
+            to="/project">Projects</Link>
         </nav>
     )
 }
